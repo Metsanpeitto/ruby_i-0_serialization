@@ -1,0 +1,4 @@
+{:name=>"session1", :word_secret=>["u", "n", "m", "e", "n", "d", "e", "d"], :word_player=>["_ ", "n", "_ ", "_ ", "n", "d", "_ ", "d"], :fails=>6}
+{:name=>"session2", :word_secret=>["i", "n", "t", "e", "r", "r", "o", "g", "a", "t", "e"], :word_player=>["i", "_ ", "_ ", "e", "r", "r", "_ ", "_ ", "a", "_ ", "e"], :fails=>1}
+{:name=>"session3", :word_secret=>["a", "r", "t", "e", "r", "i", "o", "l", "e"], :word_player=>["a", "_ ", "_ ", "_ ", "_ ", "i", "_ ", "_ ", "_ "], :fails=>0}
+{:name=>"session4", :word_secret=>["a", "r", "t", "e", "r", "i", "o", "l", "e"], :word_player=>["a", "_ ", "_ ", "_ ", "_ ", "i", "_ ", "_ ", "_ "], :fails=>1}
